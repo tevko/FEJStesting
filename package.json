@@ -1,0 +1,28 @@
+{
+  "name": "FEJStesting",
+  "version": "0.0.1",
+  "description": "a sample testing setup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tevko/FEJStesting.git"
+  },
+  "keywords": [
+    "testing",
+    "karma",
+    "jasmin",
+    "travis",
+    "node"
+  ],
+  "author": "@tevko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tevko/FEJStesting/issues"
+  },
+  "homepage": "https://github.com/tevko/FEJStesting",
+  "devDependencies": {
+    "jasmine-core": "^2.3.2",
+    "karma": "^0.12.31",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-jasmine": "^0.3.5"
+  }
+}
